@@ -1,0 +1,2 @@
+# myPythonPj
+Django Project
